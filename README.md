@@ -192,6 +192,68 @@ is exam-board aligned and ready to use.
 
 ---
 
+### 6 · Year 9 · English · Romeo and Juliet · Homework Tasks
+**Context used:** *"Plot sequencing, character identification, key scenes, 
+and cause-and-effect events across all five acts of the play"*
+
+A content-rich context that turns a broad Shakespeare topic into a structured 
+home learning task — covering the full play systematically rather than 
+leaving the scope open.
+
+👉 [View resource](https://magiteacher.com/resources/year-9-english-romeo-and-juliet-homework-home-learning-tasks)
+
+---
+
+### 7 · Year 8 · History · The Industrial Revolution · 5-Minute Lesson Plan
+**Context used:** *"The growth of factories and towns, child labour, changes 
+to agriculture, the impact of steam power, and living conditions in 
+industrial Britain"*
+
+A thematic context that anchors a vast topic to specific content strands — 
+ensuring the lesson plan covers the right breadth for KS3 without becoming 
+unfocused.
+
+👉 [View resource](https://magiteacher.com/resources/year-8-history-the-industrial-revolution-5-minute-lesson-plan)
+
+---
+
+### 8 · Year 3 · Science · Types of Rocks · Knowledge Organiser
+**Context used:** *"The characteristics, formation, and examples of 
+sedimentary, igneous, and metamorphic rocks"*
+
+A precise content-focused context that structures the knowledge organiser 
+around the three rock types — giving Year 3 pupils a clear, categorised 
+revision tool.
+
+👉 [View resource](https://magiteacher.com/resources/year-3-science-types-of-rocks-knowledge-organiser-facts)
+
+---
+
+### 9 · Year 3 · Science · Magnetism · 5-Minute Lesson Plan
+**Context used:** *"Magnetic forces, attraction and repulsion, magnetic 
+materials, and the physical properties of northern and southern poles"*
+
+Specific scientific content added to a broad topic — the context ensures 
+the lesson plan addresses the exact KS2 statutory requirements for forces 
+and magnets.
+
+👉 [View resource](https://magiteacher.com/resources/year-3-science-magnetism-5-minute-lesson-plan)
+
+---
+
+### 10 · Year 4 · History · Pompeii · Knowledge Organiser
+**Context used:** *"Key facts about Pompeii and Mount Vesuvius, life in a 
+Roman city, what the ash preserved, key vocabulary including eruption, 
+archaeologist, and archaeological evidence"*
+
+A highly detailed context that shapes the knowledge organiser around both 
+the historical event and the archaeological process — giving Year 4 pupils 
+the vocabulary and facts they need in one resource.
+
+👉 [View resource](https://magiteacher.com/resources/year-4-history-pompeii-knowledge-organiser-facts)
+
+---
+
 ## Generate Your Own
 
 Try MagiTeacher free — 5 credits, no credit card required.
