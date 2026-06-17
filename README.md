@@ -1,5 +1,5 @@
 # MagiTeacher Context Guide 🎯
-**Get better resources by mastering the Context field.**
+**Create better resources by mastering the Context field.**
 
 This guide is for teachers in England using MagiTeacher. It explains how to use 
 the Context field — the most powerful and most underused part of the platform — 
