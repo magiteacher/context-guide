@@ -14,9 +14,9 @@ teaching style.
 
 When you generate a resource on MagiTeacher, you provide three inputs:
 
-1. **The Class** — Year Group and Subject
-2. **The Resource** — the type of resource and the Topic
-3. **The Personalisation** — Difficulty, Length, and **Context**
+1. **The Class** — Year Group, Subject, and Topic
+2. **The Output** — Resource type, Difficulty, and Length
+3. **The Personalisation** — **Context** (Details / Specifics / Theme)
 
 The first two inputs tell MagiTeacher *what* to generate. The Context field 
 tells it *how*.
