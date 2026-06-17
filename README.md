@@ -6,8 +6,6 @@ the Context field — the most powerful and most underused part of the platform 
 to generate resources precisely tailored to your class, your topic, and your 
 teaching style.
 
-👉 [magiteacher.com](https://magiteacher.com/?utm_source=github&utm_medium=referral&utm_content=context_guide_readme)
-
 ---
 
 ## What is the Context Field?
@@ -144,7 +142,7 @@ uses a sensory mystery bag, a globe and torch to explain day length, a
 Season Circle sorting activity, and a Weather Diary writing task. Clear 
 scope, no drift.
 
-👉 [View resource](https://magiteacher.com/resources/year-1-science-seasons-5-minute-lesson-plan)
+👉 [View resource](https://magiteacher.com/resources/year-1-science-seasons-5-minute-lesson-plan?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -157,7 +155,7 @@ before/after vocabulary, weekend identification, and simple timetable
 reading — all scaffolded for non-readers with teacher-read scripts 
 for each question.
 
-👉 [View resource](https://magiteacher.com/resources/year-1-mathematics-days-of-the-week-low-stakes-quiz-mcq-only)
+👉 [View resource](https://magiteacher.com/resources/year-1-mathematics-days-of-the-week-low-stakes-quiz-mcq-only?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -170,7 +168,7 @@ reparations, the Rhineland, the League of Nations, and the War Guilt
 Clause — each character arguing from their own national interest, with 
 an epilogue explaining what actually happened.
 
-👉 [View resource](https://magiteacher.com/resources/year-9-history-the-treaty-of-versailles-role-play-scripts)
+👉 [View resource](https://magiteacher.com/resources/year-9-history-the-treaty-of-versailles-role-play-scripts?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -183,7 +181,7 @@ rhythmic variety, melodic control, musical structure, and dynamics —
 with three ability bands (WT, EXS, GDS), ready-to-use marking codes, 
 and intervention tips.
 
-👉 [View resource](https://magiteacher.com/resources/year-4-music-composition-and-notation-marking-rubrics)
+👉 [View resource](https://magiteacher.com/resources/year-4-music-composition-and-notation-marking-rubrics?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -198,7 +196,7 @@ on oxygen production, an Inverse Square Law calculation, and a 5-mark
 data analysis question on CO2 and temperature — with questions explicitly 
 mapped to AO1 and AO3. Full mark scheme included.
 
-👉 [View resource](https://magiteacher.com/resources/year-10-science-photosynthesis-and-limiting-factors-mixed-assessment-paper-the-hybrid)
+👉 [View resource](https://magiteacher.com/resources/year-10-science-photosynthesis-and-limiting-factors-mixed-assessment-paper-the-hybrid?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -211,7 +209,7 @@ four linked events in Act 3, a character role table for Tybalt, Friar
 Laurence, Nurse, and Mercutio, and a PEEL paragraph on Act 3 Scene 1 
 as the turning point — not a generic overview of the play.
 
-👉 [View resource](https://magiteacher.com/resources/year-9-english-romeo-and-juliet-homework-home-learning-tasks)
+👉 [View resource](https://magiteacher.com/resources/year-9-english-romeo-and-juliet-homework-home-learning-tasks?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -225,7 +223,7 @@ the Domestic vs Factory System, the Enclosure Acts, steam power, child
 labour, and urban living conditions — with a contrasting images starter, 
 primary source analysis, and a PEEL writing task.
 
-👉 [View resource](https://magiteacher.com/resources/year-8-history-the-industrial-revolution-5-minute-lesson-plan)
+👉 [View resource](https://magiteacher.com/resources/year-8-history-the-industrial-revolution-5-minute-lesson-plan?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -238,7 +236,7 @@ facts, key vocabulary, and a dedicated section for each rock type with
 formation process, named examples (granite, basalt, chalk, marble, 
 slate), real-world uses, and three retrieval tasks.
 
-👉 [View resource](https://magiteacher.com/resources/year-3-science-types-of-rocks-knowledge-organiser-facts)
+👉 [View resource](https://magiteacher.com/resources/year-3-science-types-of-rocks-knowledge-organiser-facts?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -251,7 +249,7 @@ investigations — a magnetic material audit table and a pole interaction
 map — with a mystery magnet hook, SEND sentence starters, and a Greater 
 Depth extension testing whether magnetic force works through barriers.
 
-👉 [View resource](https://magiteacher.com/resources/year-3-science-magnetism-5-minute-lesson-plan)
+👉 [View resource](https://magiteacher.com/resources/year-3-science-magnetism-5-minute-lesson-plan?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -266,7 +264,7 @@ a Roman city (insulae, villas, public baths), what the ash preserved
 (body casts, frescoes, mosaics, graffiti), and a full key vocabulary 
 section.
 
-👉 [View resource](https://magiteacher.com/resources/year-4-history-pompeii-knowledge-organiser-facts)
+👉 [View resource](https://magiteacher.com/resources/year-4-history-pompeii-knowledge-organiser-facts?utm_source=github&utm_medium=referral&utm_content=context_guide)
 
 ---
 
@@ -274,4 +272,26 @@ section.
 
 Try MagiTeacher free — 5 credits, no credit card required.
 
-👉 [magiteacher.com](https://magiteacher.com/?utm_source=github&utm_medium=referral&utm_content=context_guide_readme)
+👉 [magiteacher.com](https://magiteacher.com/?utm_source=github&utm_medium=referral&utm_content=context_guide)
+
+---
+
+## 📚 MagiTeacher on GitHub
+
+This repository is part of the MagiTeacher GitHub organisation. Explore 
+our other resources:
+
+| Repository | What's Inside |
+|---|---|
+| 🏠 [MagiTeacher Organisation](https://github.com/magiteacher) | Our full GitHub presence — who we are and what we build |
+| 📘 [resource-types](https://github.com/magiteacher/resource-types) | All 28 resource types explained in detail with examples |
+
+---
+
+## 🌐 MagiTeacher Online
+
+| Link | What's There |
+|---|---|
+| [magiteacher.com](https://magiteacher.com/?utm_source=github&utm_medium=referral&utm_content=context_guide) | Generate any resource — 5 free credits, no card required |
+| [Free Resources Library](https://magiteacher.com/resources?utm_source=github&utm_medium=referral&utm_content=context_guide) | Browse our growing library of free curriculum-aligned resources |
+| [Help & Partnerships](https://magiteacher.com/help-and-partnerships?utm_source=github&utm_medium=referral&utm_content=context_guide) | School partnerships, MAT licensing, and support |
